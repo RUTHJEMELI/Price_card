@@ -1,0 +1,70 @@
+html{
+    box-sizing:border-box
+}
+.container{
+    background-color: white;
+    width: 600px;
+    margin: 100px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    height: 350px;
+    
+
+}
+.intro{
+    background-color: white;
+    padding-left: 13px;
+    margin-top: 0px;
+}
+.heading-1{
+    color: cyan;
+    padding-left: 13px;
+    margin-bottom: 0px;
+}
+.premium{
+    color: orange;
+    padding-left: 13px;
+}
+.about{
+    display: flex;
+    
+}
+#spn{
+    font-weight: bold;
+}
+.price{
+    color: white;
+    /* margin-right: 40px; */
+    margin-top: 0px;
+    background-color: #2ab2af;
+    padding: 15px;
+    width: 50%;
+    text-align: center;
+}
+.why_us{
+    background-color: rgb(38, 187, 213);
+    padding: 25px;
+    width: 50%;
+    color: white;
+    
+
+}
+
+
+button{
+    background-color: greenyellow;
+    color: white;
+    border-radius: 5px;
+    padding: 3px;
+    border-color: transparent;
+    width: 100%;
+    margin-top: 10px;
+}
+button:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}
+ul{
+    list-style: none;
+    padding: 0px;
+}
