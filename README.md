@@ -1,1 +1,1 @@
-# Price_card
+# Price_card-frontend-challenge-mentor
